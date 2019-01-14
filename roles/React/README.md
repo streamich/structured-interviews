@@ -1,7 +1,15 @@
 # React.js Interview Plan
 
+## Segments
 
-## Experience questions
+1. [Experience Questions](#experience-questions)
+1. [Technical Questions](#technical-questions)
+1. [Coding Exercises](#coding-exercises)
+
+Split the interview into three 15-15-15 min or 15-15-30 min segments.
+
+
+## Experience Questions
 
 Ask as many as candidate is able to answer in 15 min.
 
@@ -37,6 +45,14 @@ Ask as many as candidate is able to answer in 15 min.
    participated in a standards committee?
 
 
-## Technical questions
+## Technical Questions
 
-Ask as many as candicate is able to answer in 15 min.
+Ask as many as candidate is able to answer in 15 min.
+
+
+## Coding Exercises
+
+Ask as many as candidate is able to answer.
+
+- ["Broken Component"](./Exercise-Broken-Component.md)
+
