@@ -1,6 +1,7 @@
 # Exercise: Broken Component
 
-"Our Python engineer gave a try to her first React component. Can you help him to fix it?"
+"Our Python engineer gave a try to her first React component, but it does not
+seem to work. Can you help her to fix it?"
 
 ```js
 /**

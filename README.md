@@ -28,7 +28,7 @@ Below points ensure interview process variance is reduced.
     not have some specific insight or is required to produce a big insight.
   - Avoid questions that need specialized knowledge.
 - Ignore credentials of the interviewee: the person who conducts the *structured
-  interview* should not see the CV or other credentials of the interviewee.
+  interview* should not see the CV or other credentials of the candidate.
 
 
 ## Interview Timeline
@@ -49,3 +49,9 @@ For a 60 min interview:
 ## Questions and Exercises
 
 - [React.js role](./roles/React/README.md)
+
+
+## Appendix
+
+- [*Building an Engineering Team*](https://www.youtube.com/watch?v=AZidfpz9KfY) &mdash; Ammon Bartram and Harj Taggar
+- [*Structured Interviews: A Practical Guide*](https://apps.opm.gov/ADT/ContentFiles/SIGuide09.08.08.pdf)
