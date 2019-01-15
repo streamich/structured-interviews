@@ -70,7 +70,7 @@ Ask as many as candidate is able to answer in 15 min.
 
 More questions:
 
-- [`how-to-add-a-bootstrap-for-a-react-application`](https://github.com/sudheerj/reactjs-interview-questions#how-to-add-a-bootstrap-for-a-react-application)
+- [`reactjs-interview-questions`](https://github.com/sudheerj/reactjs-interview-questions)
 - [`react-interview`](https://github.com/Pau1fitz/react-interview)
 
 
