@@ -17,7 +17,7 @@ the questions, ask her to expand on some of the questions.
 1. Have you used `express`, `koa` or other HTTP server library in a production app?
 1. Have you used `yargs`, `commander`, `minimist` or other CLI argument parsing libraries?
 1. Have you configured `express` (or other server) middleware in a production app?
-  Name a few middleware NPM packages.
+  Name few middleware NPM packages.
 1. Have you written `express` (or other server) middleware for a production app?
 
 

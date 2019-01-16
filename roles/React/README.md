@@ -1,5 +1,6 @@
 # React.js Interview Plan
 
+
 ## Segments
 
 1. [Experience Questions](#experience-questions)
@@ -67,11 +68,6 @@ Ask as many as candidate is able to answer in 15 min.
 1. What are *React Hooks*?
 1. What is React's "Suspense API"?
 1. What is the difference between `createElement` and `cloneElement`?
-
-More questions:
-
-- [`reactjs-interview-questions`](https://github.com/sudheerj/reactjs-interview-questions)
-- [`react-interview`](https://github.com/Pau1fitz/react-interview)
 
 
 ## Coding Exercises

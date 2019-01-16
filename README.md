@@ -51,6 +51,7 @@ For a 60 min interview:
 - [React role](./roles/React/README.md)
 - [Node role](./roles/Node/README.md)
 - [JavaScript role](./roles/JavaScript/README.md)
+- [Frontend role](./roles/Frontend/README.md)
 
 
 ## Appendix

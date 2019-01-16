@@ -30,4 +30,5 @@ Ask as many as candidate is able to answer.
 
 1. [Async Loop](./Exercise-Async-Loop.md)
 1. [Array `map`](./Exercise-Array-Map.md)
+1. [Remove Hyphens](./Exercise-Remove-Hyphens.md)
 1. [Bracket Parser](./Exercise-Bracket-Parser.md)
