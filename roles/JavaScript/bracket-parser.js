@@ -1,3 +1,7 @@
+// Write a function that returns `true` if brackets match, `false` otherwise. Brackets
+// match if, for example, for an opening `(` bracket there is a closing `)` bracket
+// and all the brackets in between match, too.
+
 const brackets = {
   '(': ')',
   '[': ']',
@@ -19,11 +23,11 @@ function checkString(input, b = brackets) {
 console.clear();
 
 const tests = {
-	'' : true,
-	'(' : false,
-	')' : false,
-	'()' : true,
-	'([)' : false,
+  '' : true,
+  '(' : false,
+  ')' : false,
+  '()' : true,
+  '([)' : false,
   '([)]' : false,
   '([])' : true,
   '(([()]))[]' : true,
