@@ -18,7 +18,7 @@ and returns an equivalent one but with hyphens removed from all strings.
 // - bonus point for removing hyphens from regular expressions
 
 const remove = (obj) => {
-  return obj.
+  return obj;
 };
 
 // ----------------------------------------------------------------------- Tests
