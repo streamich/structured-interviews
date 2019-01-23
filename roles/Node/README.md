@@ -20,6 +20,10 @@ the questions, ask her to expand on some of the questions.
   Name few middleware NPM packages.
 1. Have you written `express` (or other server) middleware for a production app?
 1. Have you used Node.js streams in a production app?
+1. Have you used `child_process` module in Node.js?
+1. Have you used callbacks in a production Node.js app?
+1. Have you used promises in a production Node.js app?
+1. Have you used async/await in a production Node.js app?
 
 
 ## Technical Questions
@@ -37,6 +41,10 @@ Ask as many as candidate is able to answer in 15 min.
 1. What is a `Promise`?
 1. What states can `Promise` be in?
 1. How do you cancel a `Promise`?
+1. What is the difference between `exports` and `module.exports`?
+1. How do you access environment variables in Node.js?
+1. How can you run a CLI NPM package locally only for your project?
+1. What is a `Buffer` in Node.js?
 
 
 ## Coding Exercises
