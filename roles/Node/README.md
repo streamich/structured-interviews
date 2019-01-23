@@ -19,6 +19,7 @@ the questions, ask her to expand on some of the questions.
 1. Have you configured `express` (or other server) middleware in a production app?
   Name few middleware NPM packages.
 1. Have you written `express` (or other server) middleware for a production app?
+1. Have you used Node.js streams in a production app?
 
 
 ## Technical Questions
@@ -33,8 +34,13 @@ Ask as many as candidate is able to answer in 15 min.
 1. What is `require` function in Node.js?
 1. If a module is `require`ed twice, will it execute twice? Why?
 1. How do you utilize all CPU cores of a server?
+1. What is a `Promise`?
+1. What states can `Promise` be in?
+1. How do you cancel a `Promise`?
 
 
 ## Coding Exercises
 
 Ask as many as candidate is able to answer.
+
+1. [Async Loop](../JavaScript/Exercise-Async-Loop.md)
